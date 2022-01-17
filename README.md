@@ -13,7 +13,7 @@
 </ul><br>
 
 <h2>
-  Para Vizualizar o banco de dados(Tabela), foi usado o programa DB <a href="https://sqlitebrowser.org/" target=blank>BROWSERsqlite</a>
+  Para Vizualizar o banco de dados(Tabela), foi usado o programa DB <a href="https://sqlitebrowser.org/" target=_blank>BROWSERsqlite</a>
 </h2>
  <img src="https://raw.githubusercontent.com/Devahoy/devahoy-assets/master/images/2015/01/sqlite-browser.png" alt="Software sqlite"/><br>
  
